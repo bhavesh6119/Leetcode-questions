@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
