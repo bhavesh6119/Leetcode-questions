@@ -16,13 +16,13 @@ public:
         if(head==NULL || head->next==NULL){
             return head;
         }
-        while(curr){
+        while(curr){//while curr is present push its value onto the ans array
             ans.push_back(curr->val);
             curr=curr->next;
         }
-        sort(ans.begin(),ans.end());
+        sort(ans.begin(),ans.end());//sort the array 
         curr=head;
-        for(int i=0;i<ans.size();i++){
+        for(int i=0;i<ans.size();i++){//traverse on array and ll and replace the values
             curr->val=ans[i];
             curr=curr->next;
         }
