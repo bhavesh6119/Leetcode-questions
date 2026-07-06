@@ -6,7 +6,7 @@ public:
             if(s[i]!='#'){
                 st.push(s[i]);//pushing the values if tehy are not hash
             }else{
-                if(!st.empty()){//if # is there check if stack is empty then return 0
+                if(!st.empty()){//if # is there check if stack is not empty then pop otherwise let it iterate
                     st.pop();
                 }
             }
