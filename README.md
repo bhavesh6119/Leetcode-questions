@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
@@ -139,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
