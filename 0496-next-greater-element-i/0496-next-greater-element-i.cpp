@@ -25,21 +25,20 @@ public:
         stack<int>st;
         int n=nums2.size();
         vector<int>ans;
-        for(int i=n-1;i>=0;i--){
-            while(!st.empty() && nums2[st.top()]<=nums2[i]){
+        for(int i=n-1;i>=0;i--){//iterating from last index 
+            while(!st.empty() && nums2[st.top()]<=nums2[i]){//till the arr of top is less than the current element just pop it
                 st.pop();
             }
-            if(st.empty()){
-                mp[nums2[i]]=-1;
+            if(st.empty()){//if empty
+                mp[nums2[i]]=-1;//then just add -1 to the current element
             }else{
-                mp[nums2[i]]=nums2[st.top()];
+                mp[nums2[i]]=nums2[st.top()];//add the value to the corresponding element of the map 
             }
-            st.push(i);
+            st.push(i);//then push the current element
         }
-        mp[nums2[n-1]]=-1;
         int m=nums1.size();
-        for(int i=0;i<m;i++){
-            ans.push_back(mp[nums1[i]]);
+        for(int i=0;i<m;i++){//iterate on first array 
+            ans.push_back(mp[nums1[i]]);//look upto the map and just push the value to the ans
         }
         return ans;
     }
