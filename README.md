@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
