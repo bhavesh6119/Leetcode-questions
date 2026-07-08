@@ -36,16 +36,17 @@ public:
         if(matrix.empty()){
             return 0;
         }
-        vector<int>height(col,0);
+        vector<int>height(col,0);//initailsing a height vector to store the heights of the ractangles
         for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(matrix[i][j]=='0'){
+            for(int j=0;j<col;j++){//traversing on matrix
+            //for every row as base we calculate a height by traversing on columns
+                if(matrix[i][j]=='0'){//if the col is 0 the the height is 0
                     height[j]=0;
-                }else{
+                }else{//otherwise 1 will be there so we add 1
                     height[j]+=1;
                 }
             }
-           ans=max(ans,rectangle(height));
+           ans=max(ans,rectangle(height));//passing onto the rectangle function that calculates the max area
         }
         return ans;
     }
