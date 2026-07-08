@@ -42,23 +42,24 @@ public:
         int ans=0;
         int index;
         stack<int>st;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){//traversing from keft to right
             while(!st.empty() && h[st.top()]>h[i]){
-                index=st.top();
-                st.pop();
-                if(!st.empty()){
-                    ans=max(ans,h[index]*(i-st.top()-1));
-                }else{
-                    ans=max(ans,h[index]*i);
+                index=st.top();//storing the index at top
+                st.pop();//popping it
+                if(!st.empty()){//if stack is not empty then the top elemnet is the next left smallest for index element
+                    ans=max(ans,h[index]*(i-st.top()-1));//here i is the next right smallest for index element
+                }else{//if stack is empty  then it means no nextx left smallest is there for index element
+                    ans=max(ans,h[index]*i);//as right smallest is there 
                 }
             }
-            st.push(i);
+            st.push(i);//push the current index
         }
+        //same here till satck is empty
         while(!st.empty()){
             index=st.top();
             st.pop();
             if(!st.empty()){
-                ans=max(ans,h[index]*(n-st.top()-1));
+                ans=max(ans,h[index]*(n-st.top()-1));//as n is the right smallest 
             }else{
                 ans=max(ans,h[index]*n);
             }
