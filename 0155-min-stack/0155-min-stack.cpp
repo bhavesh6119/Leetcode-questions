@@ -29,8 +29,7 @@ stack<int>st2;
         if(st1.empty()){
             return -1;
         }else{
-           int element=st1.top();
-            return element;
+            return st1.top();
         }
     }
     
