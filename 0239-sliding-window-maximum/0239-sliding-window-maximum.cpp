@@ -18,24 +18,24 @@ public:
         int n=nums.size();
         deque<int>d;
         for(int i=0;i<k-1;i++){
-            if(d.empty()){
+            if(d.empty()){//if empty then directly push
                 d.push_back(i);
             }else{
-                while(!d.empty() &&  nums[i]>nums[d.back()]){
+                while(!d.empty() &&  nums[i]>nums[d.back()]){//else if the last element is smaller then pop it
                     d.pop_back();
                 }
-                d.push_back(i);
+                d.push_back(i);//push the current index
             }
         }
         for(int i=k-1;i<n;i++){
-            while(!d.empty() && nums[i]>nums[d.back()]){
+            while(!d.empty() && nums[i]>nums[d.back()]){//similarly do here 
                 d.pop_back();
             }
-            d.push_back(i);
-            if(d.front()<=i-k){
-                d.pop_front();
+            d.push_back(i);//push the current index
+            if(d.front()<=i-k){//now if the front is out of window bound
+                d.pop_front();//pop it
             }
-            ans.push_back(nums[d.front()]);
+            ans.push_back(nums[d.front()]);//push the element at front as it is the greatest
         }
         return ans;
     }
