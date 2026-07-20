@@ -15,12 +15,12 @@ public:
         if(root==NULL){
             return 0;
         }
-        int L=height(root->left,valid);
-        int R=height(root->right,valid);
-        if(abs(L-R)>1){
+        int L=height(root->left,valid);//calculate the left height
+        int R=height(root->right,valid);//calculate the right height
+        if(abs(L-R)>1){//check for this condition
             valid =0;
         }
-        return 1+max(L,R);
+        return 1+max(L,R);//return the height of each node
     }
     bool isBalanced(TreeNode* root) {
         bool valid=1;
