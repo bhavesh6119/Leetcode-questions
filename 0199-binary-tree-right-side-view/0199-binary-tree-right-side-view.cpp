@@ -12,6 +12,7 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
+        //using queue
         queue<TreeNode*>q;
         q.push(root);
         vector<int>ans;
@@ -20,14 +21,14 @@ public:
         }
         while(!q.empty()){
             int n=q.size();
-            ans.push_back(q.front()->val);
+            ans.push_back(q.front()->val);//pushing the first value seen at a particular level
             while(n--){
-                TreeNode*temp=q.front();
-                q.pop();
-                if(temp->right){
+                TreeNode*temp=q.front();//storing it in temp
+                q.pop();//popping it
+                if(temp->right){//then pushing its right to queue first
                     q.push(temp->right);
                 }
-                if(temp->left){
+                if(temp->left){//then left
                     q.push(temp->left);
                 }
             }
