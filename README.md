@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search
 |  |
