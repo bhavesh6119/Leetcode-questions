@@ -10,18 +10,29 @@
  * };
  */
 class Solution {
-public: 
-    void postorder(TreeNode *root,vector<int>&ans){
-        if(root==NULL){
-            return;
-        }
-        postorder(root->left,ans);
-        postorder(root->right,ans);
-        ans.push_back(root->val);
-    }
+public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int>ans;
-        postorder(root,ans);
-        return ans;
+        while(root){
+            if(!root->right){
+                ans.push_back(root->val);
+                root=root->left;
+            }else{
+                TreeNode*curr=root->right;
+                while(curr->left && curr->left!=root){
+                    curr=curr->left;
+                }
+                if(curr->left==NULL){
+                    ans.push_back(root->val);
+                    curr->left=root;
+                    root=root->right;
+                }else{
+                    curr->left=NULL;
+                    root=root->left;
+                }
+            }
+        }
+          reverse(ans.begin(),ans.end());
+            return ans;
     }
 };
