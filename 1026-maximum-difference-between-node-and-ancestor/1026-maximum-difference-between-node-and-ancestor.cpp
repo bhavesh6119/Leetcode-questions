@@ -11,28 +11,18 @@
  */
 class Solution {
 public:
-    int maxdiff;
-    void findmaxdifference(TreeNode* root,TreeNode*child){
-        if(!root || !child){
-            return;
-        }
-        maxdiff=max(maxdiff,abs(root->val-child->val));
-        findmaxdifference(root,child->left);
-        findmaxdifference(root,child->right);
-    }
-    void findmaxdiff(TreeNode* root){
+    int findmaxdiff(TreeNode*root,int maxv,int minv){
         if(!root){
-            return;
+            return abs(maxv-minv);
         }
-        findmaxdifference(root,root->left);
-        findmaxdifference(root,root->right);
+        minv=min(minv,root->val);
+        maxv=max(maxv,root->val);
+        int l=findmaxdiff(root->left,maxv,minv);
+        int r=findmaxdiff(root->right,maxv,minv);
 
-        findmaxdiff(root->left);
-        findmaxdiff(root->right);
+        return max(l,r);
     }
     int maxAncestorDiff(TreeNode* root) {
-        maxdiff=-1;
-        findmaxdiff(root);
-        return maxdiff;
+        return findmaxdiff(root,root->val,root->val);
     }
 };
