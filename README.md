@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -399,4 +404,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
