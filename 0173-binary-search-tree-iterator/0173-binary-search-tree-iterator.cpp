@@ -12,26 +12,26 @@
 class BSTIterator {
 public:
     stack<TreeNode*>st;
-    void pushleft(TreeNode* node){
+    void pushleft(TreeNode* node){//this is a function for pushing all the left values onto the stack
         while(node){
             st.push(node);
             node=node->left;
         }
     }
-    BSTIterator(TreeNode* root) {
+    BSTIterator(TreeNode* root) {//it is initiator of pushleft
         pushleft(root);
     }
     
-    int next() {
-        TreeNode* curr=st.top();
-        st.pop();
-        if(curr->right){
-            pushleft(curr->right);
+    int next() {//here we just give the val of stack.top() node
+        TreeNode* curr=st.top();//store it
+        st.pop();//pop it
+        if(curr->right){//if its right exist 
+            pushleft(curr->right);//push all the left side of its right
         }
-        return curr->val;
+        return curr->val;//return the stored value
     }
     
-    bool hasNext() {
+    bool hasNext() {//check if the stack is empty or not
         return !st.empty();
     }
 };
