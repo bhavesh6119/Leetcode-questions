@@ -11,22 +11,40 @@
  */
 class Solution {
 public:
-    TreeNode* insert(TreeNode*root,int x){
-        if(!root){
-            return new TreeNode(x);
+// //brute force approach
+//     TreeNode* insert(TreeNode*root,int x){
+//         if(!root){
+//             return new TreeNode(x);
+//         }
+//         if(x<root->val){
+//             root->left=insert(root->left,x);
+//         }else{
+//             root->right=insert(root->right,x);
+//         }
+//         return root;
+//     }
+    TreeNode* BST(vector<int>&preorder,int&index,int lower,int upper){
+        if(index==preorder.size() || preorder[index]<lower || preorder[index]>upper){
+            return NULL;
         }
-        if(x<root->val){
-            root->left=insert(root->left,x);
-        }else{
-            root->right=insert(root->right,x);
-        }
+        TreeNode*root=new TreeNode(preorder[index++]);
+        root->left=BST(preorder,index,lower,root->val);
+        root->right=BST(preorder,index,root->val,upper);
+
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode*root=NULL;
-        for(int i=0;i<preorder.size();i++){
-            root=insert(root,preorder[i]);
-        }
-        return root;
+        // TreeNode*root=NULL;
+        // for(int i=0;i<preorder.size();i++){
+        //     root=insert(root,preorder[i]);
+        // }
+        // return root;
+
+        //optmised approach
+        int index=0;
+        int lower=INT_MIN;
+        int upper=INT_MAX;
+        return BST(preorder,index,lower,upper);
+
     }
 };
