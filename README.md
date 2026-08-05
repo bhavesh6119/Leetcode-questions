@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Lifting
 |  |
 | ------- |
