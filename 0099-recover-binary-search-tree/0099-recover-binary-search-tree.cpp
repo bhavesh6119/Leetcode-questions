@@ -11,37 +11,49 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode*root,vector<long long>&arr){
-        if(!root){
-            return;
-        }
-        inorder(root->left,arr);
-        arr.push_back(root->val);
-        inorder(root->right,arr);
-    }
-    void inorderrecover(TreeNode*root,vector<long long>&arr,int&index){
-        if(!root || index==arr.size()){
-            return;
-        }
-        inorderrecover(root->left,arr,index);
-        root->val=arr[index++];
-        inorderrecover(root->right,arr,index);
-    }
     void recoverTree(TreeNode* root) {
-        vector<long long>arr;
-        inorder(root,arr);
-        int first=-1;
-        int second=-1;
-        for(int i=0;i<arr.size()-1;i++){
-            if(arr[i]>arr[i+1]){
-                if(first==-1){
-                    first=i;
+        TreeNode*curr=NULL;
+        TreeNode*first=NULL;
+        TreeNode*second=NULL;
+        TreeNode*last=NULL;
+        TreeNode*present=NULL;
+
+        while(root){
+            if(!root->left){
+                last=present;
+                present=root;
+                root=root->right;
+            if(last && last->val>present->val){
+                if(!first){
+                    first=last;
                 }
-                second=i+1;
+                second=present;
             }
+            }else{
+                curr=root->left;
+                while(curr->right && curr->right!=root){
+                    curr=curr->right;
+                }
+                if(!curr->right){
+                    curr->right=root;
+                    root=root->left;
+                }else{
+                    curr->right=NULL;
+                    last=present;
+                    present=root;
+                    if(last && last->val>present->val){
+                        if(!first){
+                            first=last;
+                        }
+                        second=present;
+                    }
+                    root=root->right;
+                }
+            }
+
         }
-        swap(arr[first],arr[second]);
-        int index=0;
-        inorderrecover(root,arr,index);
+        int num=first->val;
+        first->val=second->val;
+        second->val=num;
     }
 };
