@@ -11,39 +11,39 @@
  */
 class Solution {
 public:
-class box{
+class box{//created a class
     public:
     bool BST;
     int sum;
     int mini,maxi;
-    box(){
-        BST=1;
-        sum=0;
+    box(){//constructor
+        BST=1;//if created then it is a BST
+        sum=0;//in starting let it 0
         mini=INT_MAX;
         maxi=INT_MIN;
     }
 };
     box* find(TreeNode*root,int &totalsum){
-        if(!root){
-            return new box();
+        if(!root){//if NULL
+            return new box();//create new box
         }
-        box* lefthead=find(root->left,totalsum);
-        box* righthead=find(root->right,totalsum);
-        if(lefthead->BST && righthead->BST && lefthead->maxi < root->val && righthead->mini > root->val){
-            box* head=new box();
-            head->sum+=root->val+lefthead->sum+righthead->sum;
-            head->mini=min(lefthead->mini,root->val);
-            head->maxi=max(righthead->maxi,root->val);
-            totalsum=max(totalsum,head->sum);
-            return head;
+        box* lefthead=find(root->left,totalsum);//find for left
+        box* righthead=find(root->right,totalsum);//find for right
+        if(lefthead->BST && righthead->BST && lefthead->maxi < root->val && righthead->mini > root->val){//if this condition satisfies then it is a binary search tree
+            box* head=new box();//new box is created
+            head->sum+=root->val+lefthead->sum+righthead->sum;//update the sum
+            head->mini=min(lefthead->mini,root->val);//update the mini
+            head->maxi=max(righthead->maxi,root->val);//update the maxi
+            totalsum=max(totalsum,head->sum);//update the totalsum
+            return head;//return the new head
         }else{
-            lefthead->BST=0;
+            lefthead->BST=0;//otherwise make it false
             return lefthead;
         }
     }
     int maxSumBST(TreeNode* root) {
         int totalsum=0;
-        find(root,totalsum);
+        find(root,totalsum);//pass onto function
         return totalsum;
     }
 };
