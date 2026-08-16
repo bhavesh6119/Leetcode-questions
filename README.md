@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
