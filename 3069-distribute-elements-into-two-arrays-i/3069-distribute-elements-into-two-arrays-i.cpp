@@ -15,13 +15,10 @@ public:
                 a2.push_back(nums[i]);
             }
         }
-        vector<int>ans;
-        for(int i=0;i<a1.size();i++){
-            ans.push_back(a1[i]);
-        }
+       
         for(int i=0;i<a2.size();i++){
-            ans.push_back(a2[i]);
+            a1.push_back(a2[i]);
         }
-        return ans;
+        return a1;
     }
 };
