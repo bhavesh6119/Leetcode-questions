@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -491,5 +495,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
