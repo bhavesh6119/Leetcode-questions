@@ -11,6 +11,6 @@ public:
                 return k*i;
             }
         }
-        return int(101);
+        return ((100/k)+1)*k;
     }
 };
