@@ -7,8 +7,8 @@ public:
         int j=0;
         int len=0;
         while(j<n){
-            while(mp.count(s[j])){
-                mp.erase(s[i]);
+            while(mp[s[j]]==1){
+                mp[s[i]]=0;
                 i++;
             }
             mp[s[j]]=1;
