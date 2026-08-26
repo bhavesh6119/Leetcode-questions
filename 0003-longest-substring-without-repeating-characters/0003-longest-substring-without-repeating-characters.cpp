@@ -1,19 +1,20 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<bool>arr(256,0);
-        int first=0;
-        int second=0;
-        int length=0;
-        while(second<s.size()){//travesring till the string size
-            while(arr[s[second]]){//if the string has been marked and is positive then reduce all the string befor it till it and unmark it
-                arr[s[first]]=0;
-                first++;
+        unordered_map<char,bool>mp;
+        int n=s.size();
+        int i=0;
+        int j=0;
+        int len=0;
+        while(j<n){
+            while(mp.count(s[j])){
+                mp.erase(s[i]);
+                i++;
             }
-            arr[s[second]]=1;//now mark that char again and begin a new substring 
-            length=max(length,second-first+1);//calculating length at every substring
-            second++;
+            mp[s[j]]=1;
+            len=max(len,j-i+1);
+            j++;
         }
-        return length;//at last the length that remained
+        return len;
     }
 };
