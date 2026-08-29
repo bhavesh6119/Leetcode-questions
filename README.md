@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1046-last-stone-weight) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
