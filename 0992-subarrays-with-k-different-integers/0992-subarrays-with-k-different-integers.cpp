@@ -8,31 +8,31 @@ public:
         unordered_map<int,int>mp;
         while(end<n){
             mp[nums[end]]++;
-            while(mp.size()==k){
-                total+=n-end;
+            while(mp.size()>k){
                 mp[nums[start]]--;
                 if(mp[nums[start]]==0){
                     mp.erase(nums[start]);
                 }
                 start++;
             }
+            total+=end-start+1;
             end++;
         }
 
         start=0;
         end=0;
         mp.clear();
-        k++;
+        k--;
         while(end<n){
             mp[nums[end]]++;
-            while(mp.size()==k){
-                total-=n-end;
+            while(mp.size()>k){
                 mp[nums[start]]--;
                 if(mp[nums[start]]==0){
                     mp.erase(nums[start]);
                 }
                 start++;
             }
+            total-=end-start+1;
             end++;
         }
         return total;
