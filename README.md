@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
