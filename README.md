@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
@@ -599,8 +601,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
