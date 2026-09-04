@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1046-last-stone-weight) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
