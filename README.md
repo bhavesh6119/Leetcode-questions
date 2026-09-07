@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1872-stone-game-viii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
