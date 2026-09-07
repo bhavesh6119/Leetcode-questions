@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1872-stone-game-viii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1872-stone-game-viii) |
+| [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -653,8 +656,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0210-course-schedule-ii) |
+| [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0207-course-schedule) |
+| [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
