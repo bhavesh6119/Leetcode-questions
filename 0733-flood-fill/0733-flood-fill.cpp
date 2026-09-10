@@ -7,6 +7,16 @@ public:
     bool valid(int i,int j){
         return i>=0 && i<r && j>=0 && j<c;
     }
+    void DFS(vector<vector<int>>&image,int original,int i ,int j,int color){
+        for(int k=0;k<4;k++){
+            int newi=i+row[k];
+            int newj=j+col[k];
+            if(valid(newi,newj) && image[newi][newj]==original){
+                image[i+row[k]][j+col[k]]=color;
+                DFS(image,original,newi,newj,color);
+            }
+        }
+    }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         r=image.size();
         c=image[0].size();
@@ -15,19 +25,7 @@ public:
             return image;
         }
         image[sr][sc]=color;
-        queue<pair<int,int>>q;
-        q.push({sr,sc});
-        while(!q.empty()){
-            int i=q.front().first;
-            int j=q.front().second;
-            q.pop();
-            for(int k=0;k<4;k++){
-                if(valid(i+row[k],j+col[k]) && image[i+row[k]][j+col[k]]==original){
-                    image[i+row[k]][j+col[k]]=color;
-                    q.push({i+row[k],j+col[k]});
-                }
-            }
-        }
-       return image;
+        DFS(image,original,sr,sc,color);
+        return image;
     }
 };
