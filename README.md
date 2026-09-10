@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1260-shift-2d-grid) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
