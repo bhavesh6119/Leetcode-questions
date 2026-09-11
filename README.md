@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
