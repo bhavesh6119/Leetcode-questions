@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0200-number-of-islands) |
@@ -689,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0207-course-schedule) |
 | [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
