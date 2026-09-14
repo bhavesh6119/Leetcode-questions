@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0344-reverse-string) |
+| [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
@@ -554,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
@@ -663,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
