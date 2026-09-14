@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1192-critical-connections-in-a-network](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
 ## Graph Coloring
@@ -713,4 +715,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0127-word-ladder) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
