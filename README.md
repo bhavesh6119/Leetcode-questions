@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -723,4 +724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
