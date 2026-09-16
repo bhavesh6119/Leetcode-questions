@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2050-parallel-courses-iii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2050-parallel-courses-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tournament Sort
 |  |
