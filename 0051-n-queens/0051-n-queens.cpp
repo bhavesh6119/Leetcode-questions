@@ -1,36 +1,40 @@
 class Solution {
 public:
-    bool check(int i,int j,vector<string>&board,int n){
-        int row=i;
-        int col=j;
-        while(row>-1 && col>-1){
-            if(board[row][col]=='Q'){
-                return 0;
-            }
-            row--;
-            col--;
-        }
-        row=i;
-        col=j;
-        while(row>-1 && col<n){
-            if(board[row][col]=='Q'){
-                return 0;
-            }
-            row--;
-            col++;
-        }
-        return 1;
-    }
-    void find(int row,vector<string>&board,vector<bool>&column,vector<vector<string>>&ans,int n){
+    // bool check(int i,int j,vector<string>&board,int n){
+    //     int row=i;
+    //     int col=j;
+    //     while(row>-1 && col>-1){
+    //         if(board[row][col]=='Q'){
+    //             return 0;
+    //         }
+    //         row--;
+    //         col--;
+    //     }
+    //     row=i;
+    //     col=j;
+    //     while(row>-1 && col<n){
+    //         if(board[row][col]=='Q'){
+    //             return 0;
+    //         }
+    //         row--;
+    //         col++;
+    //     }
+    //     return 1;
+    // }
+    void find(int row,vector<string>&board,vector<bool>&column,vector<vector<string>>&ans,int n,vector<bool>&leftdiagnol,vector<bool>&rightdiagnol){
         if(row==n){//base condition
             ans.push_back(board);//push the computed way
             return;
         }
         for(int j=0;j<n;j++){//iterate on the cols
-            if(column[j]==0 && check(row,j,board,n)){//check for any corresponding queens
+            if(column[j]==0 && leftdiagnol[(j-row)+n-1]==0 && rightdiagnol[row+j]==0){//check for any corresponding queens
                 column[j]=1;//make it true as the col is filled
                 board[row][j]='Q';//place the queen there
-                find(row+1,board,column,ans,n);//move to next row
+                leftdiagnol[(j-row)+n-1]=1;
+                rightdiagnol[row+j]=1;
+                find(row+1,board,column,ans,n,leftdiagnol,rightdiagnol);//move to next row
+                leftdiagnol[(j-row)+n-1]=0;
+                rightdiagnol[row+j]=0;
                 column[j]=0;//if the placement is not possible backtrack and unmark it
                 board[row][j]='.';//sane with this
             }
@@ -44,9 +48,11 @@ public:
                 board[i].push_back('.');//make it 2d initialising from '.'
             }
         }
+        vector<bool>leftdiagnol(2*n-1);
+        vector<bool>rightdiagnol(2*n-1);
         
         vector<bool>column(n,0);//to check if the corresponding col is filled or not
-        find(0,board,column,ans,n);//pass on to function
+        find(0,board,column,ans,n,leftdiagnol,rightdiagnol);//pass on to function
         return ans;
     }
 };
