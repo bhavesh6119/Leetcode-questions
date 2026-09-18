@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0200-number-of-islands) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
@@ -751,5 +755,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
