@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0085-maximal-rectangle) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
@@ -746,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
