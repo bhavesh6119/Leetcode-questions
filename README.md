@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
