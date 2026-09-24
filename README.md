@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0085-maximal-rectangle) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0860-lemonade-change](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0860-lemonade-change) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
