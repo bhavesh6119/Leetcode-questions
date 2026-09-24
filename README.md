@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0994-rotting-oranges) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0860-lemonade-change](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
