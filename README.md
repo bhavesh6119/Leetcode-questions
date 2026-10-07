@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0547-number-of-provinces) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
