@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode *root,vector<int>&ans){
-        if(root==NULL){
+    void inorder(TreeNode* root,vector<int>&ans){
+        if(!root){
             return;
         }
         inorder(root->left,ans);
