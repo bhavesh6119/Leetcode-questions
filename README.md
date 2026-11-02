@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0542-01-matrix) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhavesh6119/Leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/bhavesh6119/Leetcode-questions/tree/master/0721-accounts-merge) |
