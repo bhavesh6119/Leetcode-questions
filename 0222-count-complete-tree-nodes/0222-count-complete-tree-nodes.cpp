@@ -11,9 +11,31 @@
  */
 class Solution {
 public:
+    int leftheight(TreeNode* root){
+        int depth=0;
+        while(root){
+            root= root->left;
+            depth++;
+        }
+        return depth;
+    }
+    int rightheight(TreeNode* root){
+        int depth=0;
+        while(root){
+            root= root->right;
+            depth++;
+        }
+        return depth;
+    }
     int countNodes(TreeNode* root) {
-        if(root==NULL){
+        if(!root){
             return 0;
+        }
+        int left = leftheight(root);
+        int right = rightheight(root);
+
+        if(left==right){
+            return (1<<left)-1;
         }
         return 1+countNodes(root->left)+countNodes(root->right);
     }
