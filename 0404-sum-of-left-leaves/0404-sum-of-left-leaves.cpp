@@ -11,20 +11,26 @@
  */
 class Solution {
 public:
-    int leftleaves(TreeNode*root,bool isLeft){
-        if(!root){
-            return 0;
-        }
-        if(!root->left && !root->right){
-            return isLeft ? root->val : 0;
-        }
-        int left = leftleaves(root->left,true);
-        int right = leftleaves(root->right,false);
-
-        return left+right;
-    }
     int sumOfLeftLeaves(TreeNode* root) {
-        int sum = leftleaves(root,false);
+        queue<TreeNode*>q;
+        q.push(root);
+        int sum=0;
+        if(!root){
+            return sum;
+        }
+        while(!q.empty()){
+            TreeNode*temp=q.front();
+            q.pop();
+            if(temp->left){
+                if(!temp->left->left && !temp->left->right){
+                    sum+=temp->left->val;
+                }
+                q.push(temp->left);
+            }
+            if(temp->right){
+                q.push(temp->right);
+            }
+        }
         return sum;
     }
 };
