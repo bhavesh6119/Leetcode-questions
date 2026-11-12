@@ -11,52 +11,51 @@
  */
 class Solution {
 public:
-    bool parents(TreeNode* root,int x,int y){
-        if(root==NULL){
+    bool parents(TreeNode*root,int x,int y){
+        if(!root){
             return 0;
         }
-        if(root->left && root->right){//if both right and left exist
-        if(root->left->val==x && root->right->val==y){//check if any parent has right and left value same as given 
-            return 1;
+        if(root->left && root->right){
+            if(root->left->val==x && root->right->val==y){
+                return 1;
+            }
+            if(root->left->val==y && root->right->val==x){
+                return 1;
+            }
         }
-        if(root->left->val==y && root->right->val==x){//same here
-            return 1;
-        }
-        }
-        return parents(root->left,x,y) || parents(root->right,x,y);//otherwise return the or of the left and right
+        return parents(root->left,x,y)||parents(root->right,x,y);
     }
     bool isCousins(TreeNode* root, int x, int y) {
-        int level=0;
-        int l1=-1;
-        int l2=-1;
         queue<TreeNode*>q;
         q.push(root);
+        int level=0;
+        int l1=-1,l2=-1;
         while(!q.empty()){
-            int n=q.size();//storing the size of current q
+            int n=q.size();
             while(n--){
-                TreeNode *temp=q.front();//storing the front node address
+                TreeNode*temp=q.front();
                 q.pop();
-                if(temp->val==x){//now checking if the val matches the given node or not
-                    l1=level;//mark the level
+                if(temp->val==x){
+                    l1=level;
                 }
-                if(temp->val==y){//same here
+                if(temp->val==y){
                     l2=level;
                 }
-                if(temp->left){//normal queue level wise traversal
+                if(temp->left){
                     q.push(temp->left);
                 }
                 if(temp->right){
                     q.push(temp->right);
                 }
             }
-            level++;//increse the level after completely iterating the size of q
+            level++;
             if(l1!=l2){
-                return 0;//if they are not on equal levels
+                return 0;
             }
-            if(l1!=-1 || l2!=-1){//if they have got their level assigned 
+            if(l1!=-1 || l2!=-1){
                 break;
             }
         }
-        return !parents(root,x,y);//return inverse of this function
+        return !parents(root,x,y);
     }
 };
