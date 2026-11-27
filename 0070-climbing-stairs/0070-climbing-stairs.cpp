@@ -1,19 +1,20 @@
 class Solution {
 public:
-    int find(int n,vector<int>&dp){
-        if(n<=1){
+    int find(int i,vector<int>&dp){
+        if(i<=1){
             return 1;
         }
-        if(dp[n]!=-1){
-            return dp[n];
+        if(dp[i]!=-1){
+            return dp[i];
         }
-        int left=find(n-1,dp);
-        int right=find(n-2,dp);
-        return dp[n]=left+right;
+        int one=find(i-1,dp);
+        int two=find(i-2,dp);
+
+        return dp[i]=one+two;
     }
-    int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
-        int total=find(n,dp);
+    int climbStairs(int m) {
+        vector<int>dp(m+1,-1);
+        int total=find(m,dp);
         return total;
     }
 };
